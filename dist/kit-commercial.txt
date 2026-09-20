@@ -1,0 +1,33 @@
+RAPPORT CLAIR — PREMIÈRES VENTES
+
+Objectif : obtenir trois premiers rapports payants, pas construire un SaaS complet.
+Cible test : sociétés de maintenance informatique de 2 à 15 personnes qui préparent manuellement les rapports d’interventions de leurs clients.
+
+OFFRE PILOTE À TESTER
+49 € par rapport pilote, jusqu’à 100 interventions pour un client et une période, à partir du format CSV fourni. Un modèle de présentation, logo, synthèse et une correction inclus. Délai proposé : deux jours ouvrés après réception d’un export valide. Adapter la mention de TVA à votre statut avant de facturer. Aucun paiement n’est intégré au prototype.
+
+MESSAGE À PERSONNALISER AVANT ENVOI
+Bonjour [Prénom],
+Comment préparez-vous les rapports mensuels d’interventions pour vos clients ?
+Je teste un outil qui transforme un export CSV en un PDF avec votre logo, le détail des interventions et le temps passé. Les fichiers sont traités dans le navigateur.
+Je peux vous montrer un exemple fictif. Si cela répond à votre besoin, je propose un premier rapport à 49 €, avec une correction incluse.
+Seriez-vous disponible dix minutes pour me montrer votre façon de faire, à partir d’un exemple anonymisé ?
+Mansour
+
+PLAN SUR 14 JOURS
+1. Imprimer l’exemple fictif en PDF. Le conserver clairement marqué comme exemple.
+2. Identifier 20 sociétés pertinentes dans son réseau ou des annuaires professionnels. Vérifier individuellement leur activité et leurs coordonnées. Ne pas utiliser les clients ou les données de son employeur.
+3. Personnaliser les prises de contact. Ne promettre que les fonctionnalités testées.
+4. Noter le processus actuel, la fréquence, le temps passé, le décideur et la réaction au prix.
+5. Livrer un premier rapport avec contrôle manuel des dates, des statuts et du total des durées.
+6. Après trois ventes : choisir le format commun aux clients et mesurer le temps de support.
+7. Si le besoin est mensuel et confirmé, tester 19 €/mois. Aucune promesse de rentabilité. Sans demande payante, modifier l’offre avant de développer davantage.
+
+BUDGET
+Plafond de test suggéré : 200 €. Pas de publicité payante initialement. Les 5 000 € ne sont pas engagés par ce prototype. Vérifier les coûts d’hébergement avant tout engagement.
+
+LIMITES DU PROTOTYPE
+CSV UTF-8 (virgule ou point-virgule), 2 Mo et 2 000 lignes maximum. Pas d’import XLSX natif : exporter Excel en CSV UTF-8. PDF via la fonction d’impression du navigateur. Pas de paiement, d’abonnement, de stockage durable ou d’envoi automatique. Une adresse privée ne permet pas aux prospects de voir l’outil : utiliser d’abord le PDF de démonstration, ou décider explicitement d’une ouverture publique.
+
+AVANT UNE ACTIVITÉ PAYANTE
+Vérifier le cumul avec l’emploi, le statut permettant de facturer, les mentions commerciales et le traitement des données. Définir les conditions et le périmètre du support. Ne pas reprendre le code ou les données de l’employeur.
