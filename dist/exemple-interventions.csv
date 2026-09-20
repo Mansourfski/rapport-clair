@@ -1,0 +1,9 @@
+date;client;intervention;duree_minutes;statut
+2026-09-02;Cabinet Horizon;Mise à jour des postes de travail;90;Résolu
+2026-09-05;Cabinet Horizon;Configuration de la sauvegarde quotidienne;120;Résolu
+2026-09-09;Cabinet Horizon;Diagnostic de la connexion réseau;45;Résolu
+2026-09-12;Cabinet Horizon;Remplacement du poste d’accueil;60;En cours
+2026-09-16;Cabinet Horizon;Contrôle des restaurations de sauvegarde;30;Résolu
+2026-09-18;Cabinet Horizon;Migration de la messagerie;0;À planifier
+2026-09-04;Studio Martin;Installation d’une imprimante réseau;45;Résolu
+2026-09-14;Studio Martin;Maintenance préventive;60;Résolu
